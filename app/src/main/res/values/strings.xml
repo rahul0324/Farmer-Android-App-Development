@@ -10,5 +10,36 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="textView">FOR SELECTED CROP</string>
+    <string name="textView2">Enter Quantity (kg) :</string>
+    <string name="editText">PROCEED TO CHECKOUT</string>
+    <string name="radioButton">High</string>
+    <string name="radioButton2">Moderate</string>
+    <string name="radioButton3">Low</string>
+
+    <string-array name="search_crops">
+
+        <item>Paddy</item>
+        <item>Wheat</item>
+        <item>Maize</item>
+        <item>Potato</item>
+        <item>Dal</item>
+        <item>Carrot</item>
+        <item>Gram</item>
+        <item>Onion</item>
+        <item>Sugarcane</item>
+        <item>Tomato</item>
+        <item>Chilly</item>
+        <item>Spinach</item>
+        <item>Brinjal</item>
+        <item>Peas</item>
+        <item>Cauliflower</item>
+        <item>Millet</item>
+        <item>Pulse</item>
+        <item>Mustard</item>
+
+
+    </string-array>
+
 
 </resources>

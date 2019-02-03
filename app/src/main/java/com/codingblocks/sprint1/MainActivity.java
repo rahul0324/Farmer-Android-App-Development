@@ -1,5 +1,4 @@
 package com.codingblocks.sprint1;
-
 import android.app.Dialog;
 import android.content.Intent;
 import android.os.Bundle;
@@ -40,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             @Override
             public void onClick(View v) {
 
-                Intent i = new Intent(MainActivity.this, secondActivity.class);
+                Intent i = new Intent(MainActivity.this, PankajMainActivity.class);
 
                 startActivity(i);
 
